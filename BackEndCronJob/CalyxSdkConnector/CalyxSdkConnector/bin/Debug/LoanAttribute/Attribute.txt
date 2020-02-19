@@ -1,0 +1,532 @@
+1	Loan Number
+2	Borrower Last Name 
+3	Borrower First Name
+4	Loan Representative
+5	Created Date
+6	Contact Date
+7	Full Path Name
+8	Last Update Date by 3rd Party
+9	Update Comment for 3rd Party
+10	
+11	Base Loan Amount
+12	Note Rate %
+13	Loan Term
+14	Qualifying Rate %
+15	Conversation Log
+16	Version No. (Starting from 3.5b-123)
+17	Date/Time Modified (Starting from 3.5b-123)
+18	Loan Processor
+19	Loan Representative
+20	Branch (Track -> Internal)
+21	Interfaces Transaction History Log
+22	MERS MIN
+23	Build No. (Staring from 155)
+24	Auto Send Off Flag
+25	Full User Name
+26	Conventional Loan (checkbox)
+27	VA Loan (checkbox)
+28	FHA Loan (checkbox)
+29	USDA/Rural Housing Loan (checkbox)
+30	
+31	Subject Property Address
+32	Subject Property City
+33	Subject Property St
+34	Subject Property Zip
+35	Subject Property County
+36	Subject Property No. of Units
+37	Subject Property Year Built
+38	Number of Condo Stories
+39	Subject Property County Code
+41	Date opened
+57	First Payment Date
+61	Date Sold
+100	Borrower First Name
+101	Borrower Last Name
+102	Borrower Present Address
+103	Borrower Present Address City
+104	Borrower Present Address State
+105	Borrower Present Address Zip
+106	Borrower Home Phone Number
+107	Borrower FAX Number
+108	Borrower Social Security Number
+109	Borrower Age
+110	Borrower Yrs. School
+111	Borrower No. of Years at Present Address
+112	Borrower E-Mail Address
+113	Borrower Owns Current Residence (checkbox)
+114	Borrower Rents Current Residence (checkbox)
+115	Borrower Present Address Country
+116	
+117	Borrower Middle Name
+118	Borrower Date of Birth
+119	Borrower Name Suffix
+120	
+121	
+122	
+123	
+124	
+125	Phone Number of Nearest Living Relative not Living with Borrower
+126	Relationship of Nearest Living Relative not Living with Borrower
+127	Address of Nearest Living Relative not Living with Borrower
+128	Name of Nearest Living Relative not Living with Borrower
+129	Borrower Number of Dependents
+130	Borrower Dependents Ages
+131	
+132	
+133	
+134	
+135	Borrower Position/Title/Type of Business
+136	Borrower Business Phone
+137	
+138	Borrower Years Employed in this line of work/profession
+139	Borrower Cell/Alt Phone
+140	Borrower Current Employer City
+141	Borrower Self-Employed Indicator (checkbox)
+142	Borrower Current Employer State
+143	Borrower Current Employer Zip
+144	Borrower Marital Status: Married (checkbox)
+145	Borrower Marital Status: Separated (checkbox)
+146	Borrower Marital Status: Unmarried (checkbox)
+147	
+148	Borrower Current Employer Name
+149	Borrower Current Employer Address
+150	Co-Borrower First Name
+151	Co-Borrower Last Name
+152	Co-Borrower Mailing Address
+153	Co-Borrower Mailing City
+154	Co-Borrower Mailing State
+155	Co-Borrower Mailing Zip
+156	Co-Borrower Home Phone Number
+157	Co-Borrower FAX Number
+158	Co-Borrower Social Security Number
+159	Co-Borrower Age
+160	Co-Borrower Yrs School
+161	Co-Borrower No. of Years at Present Address
+162	Co-Borrower E-Mail Address
+163	Co-Borrower Owns Current Residence (checkbox)
+164	Co-Borrower Rents Current Residence (checkbox) 
+165	Co-Borrower Present Address Country
+166	
+167	Co-Borrower Middle Name
+168	Co-Borrower Date of Birth
+169	Co-Borrower Name Suffix
+170	
+171	
+172	
+173	
+174	
+175	Phone Number of Nearest Living Relative not Living with Co-Borrower
+176	Relationship of Nearest Living Relative not Living with Co-Borrower
+177	Address of Nearest Living Relative not Living with Co-Borrower
+178	Name of Nearest Living Relative not Living with Co-Borrower
+179	Co-Borrower Number of Dependents
+180	Co-Borrower Dependents Ages
+181	
+182	
+183	
+184	
+185	Co-Borrower Position/Title/Type of Business
+186	Co-Borrower Business Phone
+187	
+188	Co-Borrower Years Employed in this line of work/profession
+189	Co-Borrower Cell/Alt Phone
+190	Co-Borrower Current Employer City
+191	Co-Borrower Self-Employed Indicator (checkbox)
+192	Co-Borrower Current Employer State
+193	Co-Borrower Current Employer Zip
+194	Co-Borrower Marital Status: Married (checkbox)
+195	Co-Borrower Marital Status: Separated (checkbox)
+196	Co-Borrower Marital Status: Unmarried (checkbox)
+197	
+198	Co-Borrower Current Employer Name
+199	Co-Borrower Current Employer Address
+200	Borrower Mailing Address
+201	Borrower Mailing City
+202	Borrower Mailing State
+203	Borrower Mailing Zip
+204	Borrower Same As Present Address (checkbox)
+205	Borrower Years on Current Job
+206	Borrower Months on Current Job
+207	
+208	
+209	
+210	Borrower First on CB
+211	Borrower Last on CB
+212	Co-Borrower First on CB
+213	Co-Borrower Last on CB
+214	
+215	Lender's No. 
+216	
+217	
+218	
+219	
+220	Co-Borrower Mailing Address
+221	Co-Borrower Mailing City
+222	Co-Borrower Mailing State
+223	Co-Borrower Mailing Zip
+224	Co-Borrower Same As Present Address (checkbox)
+225	Co-Borrower Years on Current Job
+226	Co-Borrower Months on Current Job
+230	FWS - Loan Origination Fee - FIN Checkbox, assigned on 4/8/2014, Financed checkbox on Fees Worksheet
+231	FWS - Lender's Inspection Fee - FIN Checkbox, assigned on 4/8/2014, Financed checkbox on Fees Worksheet
+232	FWS - Mortgage Broker's Fee - FIN Checkbox assigned on 4/8/2014, Financed checkbox on Fees Worksheet
+233	FWS - Processing Fee - FIN Checkbox
+234	FWS - Underwriting Fee - FIN Checkbox
+235	FWS - Wire Transfer - FIN Checkbox
+236	FWS - User Defined #1 - FIN Checkbox
+237	FWS - User Defined #2 - FIN Checkbox
+238	FWS - User Defined #3 - FIN Checkbox
+239	FWS - User Defined #4 - FIN Checkbox
+240	FWS - User Defined #5 - FIN Checkbox
+241	FWS - User Defined #6 - FIN Checkbox
+242	FWS - User Defined #7 - FIN Checkbox
+243	FWS - User Defined #8 - FIN Checkbox
+244	FWS - Sec2 - Loan Discount - FIN Checkbox
+245	FWS - Sec2 - Loan Level Pricing Adjustment #1 - FIN Checkbox
+246	FWS - Sec2 - Loan Level Pricing Adjustment #2 - FIN Checkbox
+247	FWS - Sec3 - Appraisal Fee - FIN Checkbox
+248	FWS - Sec3 - Credit Report Fee - FIN Checkbox
+249	FWS - Sec3 - Tax Service Fee - FIN Checkbox
+250	FWS - Sec3 - Flood Certification Fee - FIN Checkbox
+251	FWS - Sec3 - PMI/MIP/USDA - FIN Checkbox
+252	FWS - Sec3 - VA Funding Fee - FIN Checkbox
+253	FWS - Sec3 - User Defined Fee #1 - FIN Checkbox
+254	FWS - Sec3 - User Defined Fee #2 - FIN Checkbox
+255	FWS - Sec3 - User Defined Fee #3 - FIN Checkbox
+256	FWS - Sec4 - Closing/Escrow Fee - FIN Checkbox
+257	FWS - Sec4 - Document Preparation Fee - FIN Checkbox
+258	FWS - Sec4 - Notary Fees - FIN Checkbox
+259	FWS - Sec4 - Attorney Fees - FIN Checkbox
+260	FWS - Sec4 - User Defined Fee #1 - FIN Checkbox
+261	FWS - Sec4 - User Defined Fee #2 - FIN Checkbox
+262	FWS - Sec4 - User Defined Fee #3 - FIN Checkbox
+263	FWS - Sec4 - User Defined Fee #4 - FIN Checkbox
+264	FWS - Sec4 - User Defined Fee #5 - FIN Checkbox
+265	FWS - Sec4 - User Defined Fee #6 - FIN Checkbox
+266	FWS - Sec4 - User Defined Fee #7 - FIN Checkbox
+267	FWS - Sec4 - User Defined Fee #8 - FIN Checkbox
+268	FWS - Sec4 - User Defined Fee #9 - FIN Checkbox
+269	FWS - Sec5 - Owner's Title Insurance - FIN Checkbox
+270	FWS - Sec6 - Pest Inspection Fee - FIN Checkbox
+271	FWS - Sec6 - User Defined Fee #1 - FIN Checkbox
+272	FWS - Sec6 - User Defined Fee #2 - FIN Checkbox
+273	FWS - Sec6 - User Defined Fee #3 - FIN Checkbox
+274	FWS - Sec6 - User Defined Fee #4 - FIN Checkbox
+275	FWS - Sec6 - User Defined Fee #5 - FIN Checkbox
+276	FWS - Sec6 - User Defined Fee #6 - FIN Checkbox
+277	FWS - Sec6 - User Defined Fee #7 - FIN Checkbox
+278	FWS - Sec6 - User Defined Fee #8 - FIN Checkbox
+279	FWS - Sec7 - Mortgage Recording Fee - FIN Checkbox
+280	FWS - Sec7 - User Defined #1 Fee - FIN Checkbox
+281	FWS - Sec7 - Deed Recording Fee - FIN Checkbox
+282	FWS - Sec7 - User Defined #2 Fee - FIN Checkbox
+283	FWS - Sec8 - City/County Tax/Stamps - FIN Checkbox
+284	FWS - Sec8 - State Tax/Stamps - FIN Checkbox
+285	FWS - Sec8 - User Defined Tax #1 - FIN Checkbox
+286	FWS - Sec8 - User Defined Tax #2 - FIN Checkbox
+287	FWS - Sec8 - User Defined Tax #2 - FIN Checkbox
+288	FWS - Sec9 - Hazard Insurance Reserves - FIN Checkbox
+289	FWS - Sec9 - PMI/MIP/VA FF/USDA Reserves - FIN Checkbox
+290	FWS - Sec9 - County Property Tax Reserves - FIN Checkbox
+291	FWS - Sec9 - School Taxes Reserves - FIN Checkbox
+292	FWS - Sec9 - Flood Insurance Reserves - FIN Checkbox
+293	FWS - Sec9 - User Defined Reserves #1 - FIN Checkbox
+294	FWS - Sec9 - User Defined Reserves #2 - FIN Checkbox
+295	FWS - Sec10 - Deaily Interest Charges  - FIN Checkbox
+296	FWS - Sec11 - Hazard Insurance Premium - FIN Checkbox
+297	FWS - Sec11 - Flood Insurance Premium - FIN Checkbox
+298	FWS - Sec11 - User Defined #1 - FIN Checkbox
+299	FWS - Sec11 - User Defined #2 - FIN Checkbox
+300	Settlement or Closing/Escrow Fee Description
+301	FWS - Prepaid - User Defined #1 - FIN Checkbox
+302	FWS - Prepaid - User Defined #2 - FIN Checkbox
+303	FWS - Other Charges - User Defined #1 - FIN Checkbox
+304	FWS - Other Charges - User Defined #2 - FIN Checkbox
+305	FWS - Other Charges - User Defined #3 - FIN Checkbox
+306	FWS - Other Charges - User Defined #4 - FIN Checkbox
+330	Appraiser Name
+331	Appraisal Company Name
+332	Appraisal Company Phone Number
+333	Appraisal Company Address Line 1
+334	Appraisal Company Address Line 2
+335	Appraisal Company FAX Number
+336	Appraisal Ordered Date
+337	Appraisal Number
+338	Appraiser Assigned No. by lender
+339	Appraiser License Number
+360	Builder Name
+361	Builder Company Name
+362	Builder Company Phone Number
+363	Builder Company Address Line 1
+364	Builder Company Address Line 2 (City, State, Zip)
+365	
+366	
+367	
+368	Builder Company FAX Number
+369	Builder Code
+390	Servicer Name
+391	Servicer Address Line 1
+392	Servicer Address Line 2 (City, State, Zip)
+393	
+394	
+395	Servicer Phone Number
+522	Principal & Interest Entry Rate
+523	Principal & Interest Entry Dollar Amount
+524	Down Payment Percentage
+525	Down Payment Amount
+526	
+527	Total Monthly Payment (Principal & Interest)
+528	Final Balloon Payment
+529	Maximum Monthly Payment during the life of the loan
+540	Loan-to-Value (LTV)
+541	Combined Loan-to-Value (CLTV)
+542	Top Ratio
+543	Bottom Ratio
+544	Required Top Ratio
+545	Required Bottom Ratio
+546	Maximum Loan-to-Value
+547	Maximum Combined Loan-to-Vale
+550	Fixed Rate (checkbox)
+555	Interest Only term
+560	ARM
+600	Base Income
+601	Overtime
+602	Bonuses
+603	Commissions
+604	Dividends/Interests
+605	Net Rental Income
+606	Other 1
+607	Other 2 (from Describe Other Income section)
+608	
+609	
+610	Borrower Total Income
+620	Base Income
+621	Overtime
+622	Bonuses
+623	Commissions
+624	Dividends/Interests
+625	Net Rental Income
+626	Other 1
+627	Other 2
+628	
+629	
+630	Total Income (Grand Total)
+650	Base Income
+651	Overtime
+652	Bonuses
+653	Commissions
+654	Dividends/Interests
+655	Net Rental Income
+656	Other 1
+657	Other 2 (from Describe Other Income section)
+658	
+659	
+660	Co-Borrower Total Income
+751	Proposed First Mortgage Monthly Payment (Principal & Interest)
+752	Proposed Other Financing (Principal & Interest)
+753	Proposed Hazard Insurance
+754	Proposed Real Estate Taxes
+755	Proposed Mortgage Insurance
+756	Proposed Homeowner's Association Fees
+757	Proposed Other
+758	Proposed Other in Housing Expense
+759	
+760	Proposed Total Monthly Payment
+800	Subject Property Sales Price
+801	Subject Property Appraised Value
+1190	Purchase
+1193	Cash-Out Refinance
+1198	No Cash-Out Refinance
+1208	Year Lot Acquired (if construction or construction-permanent loan)
+1209	Original Cost $ (if construction or construction-permanent loan)
+1210	Present Value of Lot $ (if construction or construction-permanent loan)
+1222	Name(s) to hold Title
+1223	Name(s) to hold Title
+1223	Name(s) to hold Title
+1224	Manner in which Title will be held
+1240	Occupancy Code
+1241	Loan Purpose Code
+1242	Lien Position Code
+1243	Product Type Code
+1244	Loan Type Code
+1245	Subject Property Type Code
+1246	Loan Documentation Type Code
+1247	ARM Index Type Code
+5032	Borrower Experian/FICO credit score
+5033	Co-Borrower Experian/FICO credit score
+6020	Date 1003 Received to Process
+6021	Loan Opened Comments
+6022	Current status
+6023	Status date
+6024	Current status comment
+6025	Date Submitted to Underwriting
+6026	Loan Submitted Comments
+6027	
+6028	
+6029	Interest Rate Change Date, Track, Registration & Rate Lock, assigned on 3/9/2017
+6030	Date of Mortgage Approval
+6031	Loan Approved Comments
+6032	
+6033	Optional, Fees Worksheet, assigned 3/9/2017
+6034	Optional, Fees Worksheet, assigned 3/9/2017
+6035	Date Docs to Title
+6036	Loan Docs Comments
+6037	Optional, Fees Worksheet, assigned 3/9/2017
+6038	Optional, Fees Worksheet, assigned 3/9/2017
+6039	Optional, Fees Worksheet, assigned 3/9/2017
+6040	Date Funded
+6041	Loan Funded Comments
+6042	Optional, Fees Worksheet, assigned 3/9/2017
+6043	Optional, Fees Worksheet, assigned 3/9/2017
+6044	Optional, Fees Worksheet, assigned 3/9/2017
+6045	Date Denied
+6046	Denied Date Comments
+6047	Checkbox: Loan Denied
+6048	Denied by
+6049	Optional, Fees Worksheet, assigned 3/9/2017
+6050	Date Canceled
+6051	Loan Cancelled Comments
+6052	
+6053	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6054	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6055	Date of Closing
+6056	Loan Closed Comments
+6057	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6058	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6059	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6060	Text Status Field
+6061	Locked On
+6062	Number of Days
+6063	Expires
+6064	
+6065	Date Suspended by Underwriting
+6066	Loan Suspended Comments
+6067	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6068	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6069	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6070	Recorded Date
+6071	Loan Recorded Comments
+6072	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6073	Optional, Closing Cost Worksheet, assigned 3/9/2017
+6074	Optional, Fees Worksheet, assigned 3/9/2017
+6075	Estimated Closing Date
+6076	Estimated Closing Comments
+6077	Due from Borrower at closing - User Defined 1: "Name", Closing Disclosure pg 3, assigned on 3/9/3017
+6078	Print addendum with loan application (1003), Utilities > company defaults > Loan Application Addendum, assigned on 3/10/2017
+6079	checkbox 1, Closing Cost Worsheet, assigned on 3/13/2017
+6080	User Defined Status Date 1
+6081	User Defined Status 1 Comments
+6082	checkbox 2, Closing Cost Worsheet, assigned on 3/13/2017
+6083	checkbox 3, Closing Cost Worsheet, assigned on 3/13/2017
+6084	User Defined Status 1
+6085	User Defined Status Date 2
+6086	User Defined Status 2 Comments
+6087	checkbox 4, Closing Cost Worsheet, assigned on 3/13/2017
+6088	checkbox 5, Closing Cost Worsheet, assigned on 3/13/2017
+6089	User Defined Status 2
+6090	User Defined Status Date 3
+6091	User Defined Status 3 Comments
+6092	checkbox 6, Closing Cost Worsheet, assigned on 3/13/2017
+6093	checkbox 7, Closing Cost Worsheet, assigned on 3/13/2017
+6094	User Defined Status 3
+6095	User Defined Status Date 4
+6096	User Defined Status 4 Comments
+6097	checkbox 8, Closing Cost Worsheet, assigned on 3/13/2017
+6098	checkbox 9, Closing Cost Worsheet, assigned on 3/13/2017
+6099	User Defined Status 4
+6100	Float
+6101	Lock
+6102	checkbox 10, Closing Cost Worsheet, assigned on 3/13/2017
+6103	checkbox 11, Closing Cost Worsheet, assigned on 3/13/2017
+6104	checkbox 12, Closing Cost Worsheet, assigned on 3/13/2017
+6105	checkbox 13, Closing Cost Worsheet, assigned on 3/13/2017
+6106	checkbox 14, Closing Cost Worsheet, assigned on 3/13/2017
+6107	Lock Confirmation Time
+6108	checkbox 15, Closing Cost Worsheet, assigned on 3/13/2017
+6109	checkbox 16, Closing Cost Worsheet, assigned on 3/13/2017
+6110	Officer
+6111	Escrow Company
+6112	Escrow Company Phone Number
+6113	Escrow Company Address
+6114	Escrow Company C/S/Z
+6115	Escrow Company Fax Number
+6116	Closing (Settlement) Agent "Company" ST License ID, assigned on 12/24/2014
+6117	Closing (Settlement) Agent "Contact" ST License ID, assigned on 12/24/2014
+6118	checkbox 17, Closing Cost Worsheet, assigned on 3/13/2017
+6119	Escrow Number
+6120	Officer
+6121	Title Company
+6122	Title Company Phone Number
+6123	Title Company Address
+6124	Title Company C/S/Z
+6125	Title Company Fax Number
+6126	checkbox 18, Closing Cost Worsheet, assigned on 3/13/2017
+6127	checkbox 19, Closing Cost Worsheet, assigned on 3/13/2017
+6128	checkbox 20, Closing Cost Worsheet, assigned on 3/13/2017
+6129	Title Number
+6130	Name
+6131	Company
+6132	Phone
+6133	Address
+6134	C/S/Z
+6135	Fax
+6136	Company License Number, Track > Agent List > Real Estate Broker (Seller), reassigned on 8/3/2015 to replace 6199
+6137	Contact License Number, Track > Agent List > Real Estate Broker (Seller), , reassigned on 8/3/2015 to replace 2858
+6138	checkbox 21, Closing Cost Worsheet, assigned on 3/13/2017
+6139	checkbox 22, Closing Cost Worsheet, assigned on 3/13/2017
+6140	Name
+6141	Company
+6142	Phone
+6143	address
+6144	C/S/Z
+6145	Fax
+7120	Book
+7121	Total Loan costs lock box, HMDA 2018, assigned on 8/15/2017
+7122	borrower id of selected co-applicant for MISMO 26 export, HMDA 2018, assigend on 9/1/2017
+7123	Include (UCD), Underwriting, assigned on 9/11/2017
+7124	Include (UCD), Underwriting, assigned on 9/11/2017
+7125	This loan will be delivered to, Interfaces > Uniform Closing Dataset (UCD), assigned on 9/11/2017
+7126	Application Date, HMDA 2018, assigend on 10/13/2017
+7127	Borrower age, HMDA 2018, assigend on 10/13/2017
+7128	Co-borrower age, HMDA 2018, assigend on 10/13/2017
+7129	Loan purpose, HMDA 2018, assigend on 10/13/2017
+7130	Annual income, HMDA 2018, assigend on 10/13/2017
+7131	Debt to income, HMDA 2018, assigend on 10/13/2017
+7132	Originator nmls, HMDA 2018, assigend on 10/13/2017
+7133	Property value, HMDA 2018, assigend on 10/13/2017
+7134	Interest rate, HMDA 2018, assigend on 10/13/2017
+7135	Loan term, HMDA 2018, assigend on 10/13/2017
+7136	CLTV, HMDA 2018, assigend on 10/13/2017
+7137	Open-end line of credit, HMDA 2018, assigend on 10/13/2017
+7138	Introductory rate period, HMDA 2018, assigend on 10/13/2017
+7139	Interest only payments, HMDA 2018, assigend on 10/13/2017
+7140	Balloon payment, HMDA 2018, assigend on 10/13/2017
+7141	Negative amortization, HMDA 2018, assigend on 10/13/2017
+7142	Other non-amortization features, HMDA 2018, assigend on 10/13/2017
+7143	Origination charges, HMDA 2018, assigend on 10/13/2017
+7144	Discount points, HMDA 2018, assigend on 10/13/2017
+7145	Lender credits, HMDA 2018, assigend on 10/13/2017
+7146	Total loan costs, HMDA 2018, assigend on 10/13/2017
+7147	Prepayment Penalty, HMDA 2018, assigend on 10/13/2017
+7148	Occupancy: Owner occupancy as defined by HMDA for 2017 reporting, HMDA Reporting 2017, assigned on 11/17/2017
+7149	Occupancy lock checkbox,  HMDA Reporting 2017, assigned on 11/17/2017
+7150	Lender Registration #, Freddie Mac > Addendum, assigned on 12/7/2017
+7151	Lender Branch #, Freddie Mac > Addendum, assigned on 12/7/2017
+7152	Construction Conversion, Freddie Mac > Addendum, assigned on 12/20/2017
+7153	Reserves, Services > LPA > Addendum, assigned on 1/5/2018
+7154	Lock box, Services > LPA > Addendum, assigned on 1/5/2018
+7155	Automiatically Retrieve Research Verification checkbox, Services > Verifications > The Work Number, assigned on 3/29/2018
+7156	LPA Key, LPA S2S interface, assigned on 3/6/2018
+7157	Loan ID, LPA S2S interface, assigned on 3/6/2018
+7158	Check Status ID, LPA S2S interface, assigned on 3/6/2018
+7159	Request Type dropdown list, Loan Product Advisor System-to-System, assigned on 3/13/2018
+7160	Total Points and Fees (HMDA) dropdown list, Services > Verifications > The Work Number, assigned on 4/9/2018
+7161	Date documents were downloaded from Interface, Freddie Mac LPA System to System Interface, assigned on 4/9/2018
+7162	Borrower Employer checkbox, Services > Verifications > The Work Number, assigned on 3/29/2018
+7163	Co-borrower Employer checkbox, Services > Verifications > The Work Number, assigned on 3/29/2018
+7164	Lock symbol, Closing Disclosure pg. 3 when the standard checkbox is checked from Loan Estimate screen, assigned on 5/10/2018
+7165	Seller Servicer #, Services > Freddie Mac > Addendum, assigned on 5/4/2018
+
+
+
+

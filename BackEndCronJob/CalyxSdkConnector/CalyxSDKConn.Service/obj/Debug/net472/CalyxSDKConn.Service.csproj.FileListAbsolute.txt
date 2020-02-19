@@ -1,0 +1,11 @@
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\bin\Debug\net472\CalyxSDKConn.Service.dll
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\bin\Debug\net472\CalyxSDKConn.Service.pdb
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\bin\Debug\net472\CalyxSDKConn.Core.dll
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\bin\Debug\net472\CalyxSDKConn.Core.pdb
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\obj\Debug\net472\CalyxSDKConn.Service.csprojAssemblyReference.cache
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\obj\Debug\net472\CalyxSDKConn.Service.csproj.CoreCompileInputs.cache
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\obj\Debug\net472\CalyxSDKConn.Service.AssemblyInfoInputs.cache
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\obj\Debug\net472\CalyxSDKConn.Service.AssemblyInfo.cs
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\obj\Debug\net472\CalyxSDKConn.Service.csproj.CopyComplete
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\obj\Debug\net472\CalyxSDKConn.Service.dll
+D:\vishal\New Projects\Calyx Software\Projects\BackEndCronJob\CalyxSdkConnector\CalyxSDKConn.Service\obj\Debug\net472\CalyxSDKConn.Service.pdb

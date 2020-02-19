@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "CalyxSDKConn.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/CalyxSDKConn.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalyxSDKConn.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalyxSDKConn.Core/1.0.0": {
+      "type": "project",
+      "path": "../CalyxSDKConn.Core/CalyxSDKConn.Core.csproj",
+      "msbuildProject": "../CalyxSDKConn.Core/CalyxSDKConn.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "CalyxSDKConn.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\vishal\\New Projects\\Calyx Software\\Projects\\BackEndCronJob\\CalyxSdkConnector\\CalyxSDKConn.Service\\CalyxSDKConn.Service.csproj",
+      "projectName": "CalyxSDKConn.Service",
+      "projectPath": "D:\\vishal\\New Projects\\Calyx Software\\Projects\\BackEndCronJob\\CalyxSdkConnector\\CalyxSDKConn.Service\\CalyxSDKConn.Service.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\vishal\\New Projects\\Calyx Software\\Projects\\BackEndCronJob\\CalyxSdkConnector\\CalyxSDKConn.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.uxdivers.com/grial/": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "D:\\vishal\\New Projects\\Calyx Software\\Projects\\BackEndCronJob\\CalyxSdkConnector\\CalyxSDKConn.Core\\CalyxSDKConn.Core.csproj": {
+              "projectPath": "D:\\vishal\\New Projects\\Calyx Software\\Projects\\BackEndCronJob\\CalyxSdkConnector\\CalyxSDKConn.Core\\CalyxSDKConn.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {}
+    }
+  }
+}

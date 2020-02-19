@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalyxSdkConnector", "CalyxSdkConnector\CalyxSdkConnector.csproj", "{5A664DDD-6CD4-43DF-BC0B-A5125B67342C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalyxSDKConn.Service", "CalyxSDKConn.Service\CalyxSDKConn.Service.csproj", "{7F66E919-8E56-44F1-9E92-6942AE01693E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalyxSDKConn.Core", "CalyxSDKConn.Core\CalyxSDKConn.Core.csproj", "{126B52A9-1D0A-4E97-A75B-EA658525A9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A664DDD-6CD4-43DF-BC0B-A5125B67342C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A664DDD-6CD4-43DF-BC0B-A5125B67342C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A664DDD-6CD4-43DF-BC0B-A5125B67342C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A664DDD-6CD4-43DF-BC0B-A5125B67342C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F66E919-8E56-44F1-9E92-6942AE01693E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F66E919-8E56-44F1-9E92-6942AE01693E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F66E919-8E56-44F1-9E92-6942AE01693E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F66E919-8E56-44F1-9E92-6942AE01693E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126B52A9-1D0A-4E97-A75B-EA658525A9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126B52A9-1D0A-4E97-A75B-EA658525A9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126B52A9-1D0A-4E97-A75B-EA658525A9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126B52A9-1D0A-4E97-A75B-EA658525A9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF4D205D-72F3-4317-BFF6-BAE44C886A1C}
+	EndGlobalSection
+EndGlobal
